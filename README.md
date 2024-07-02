@@ -1,1 +1,1 @@
-# The-Bakery
+This repository contains the forecast report for the bakery project. It includes two Excel files with sales and wheather data, an RDS file with the data prepared for modelling, the code for the models and predictions, and the final report in MS Word format.
